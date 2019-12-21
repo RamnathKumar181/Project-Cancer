@@ -1,2 +1,37 @@
 # Project-Cancer
-Create a model which can determine if  the patient has cancer or not.
+
+Comparative study of models created to detect whether a patient has cancer or not. We create various models such as SVM, Random forest, ANN, and many more.
+
+## Run
+
+Clone the repository.
+To run the model, you need to execute the following command:
+```
+python3 rnn.py
+```
+or
+```
+python3 tl.py
+```
+or
+```
+python3 cnn.py
+```
+This should allow your model to train on new examples. Or you could modify the code to predict for your own dataset.
+
+## Requirements
+- Python 3.6
+- keras : <code> pip install keras </code>
+- numpy : <code> pip install numpy </code>
+- sklearn : <code> pip install sklearn </code>
+
+## System Used
+1. CPU: Intel(R) Xeon(R) CPU @ 2.30GHz
+2. GPU: 1xTesla K80 , having 2496 CUDA cores, compute 3.7,  12GB(11.439GB Usable) GDDR5  VRAM
+3. RAM: 12.6GB
+
+## Acknowledgements
+I would like to thank Dr. Vidya Durai for giving me the opportunity to work on this project
+
+## License
+The software is provided "as is" without warranty of any kind, express or implied, including but not limited to the warranties of the merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.
