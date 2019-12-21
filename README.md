@@ -1,21 +1,29 @@
 # Project-Cancer
 
-Comparative study of models created to detect whether a patient has cancer or not. We create various models such as SVM, Random forest, ANN, and many more.
+Comparative study of models created to detect whether a patient has cancer or not. We create various models such as SVM, Random forest, ANN, and many more. The description of the dataset is given in the Description file.
 
 ## Run
 
 Clone the repository.
 To run the model, you need to execute the following command:
 ```
-python3 rnn.py
+python3 Ann.py
 ```
 or
 ```
-python3 tl.py
+python3 KNN.py
 ```
 or
 ```
-python3 cnn.py
+python3 NAIVE_BAYES.py
+```
+or
+```
+python3 RANDOM_FOREST.py
+```
+or
+```
+python3 SVM.py
 ```
 This should allow your model to train on new examples. Or you could modify the code to predict for your own dataset.
 
