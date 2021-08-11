@@ -39,7 +39,5 @@ This should allow your model to train on new examples. Or you could modify the c
 3. RAM: 12.6GB
 
 ## Acknowledgements
-I would like to thank Dr. Vidya Durai for giving me the opportunity to work on this project
+I would like to thank Dr. Vidya Durai for giving me the opportunity to work on this project.
 
-## License
-The software is provided "as is" without warranty of any kind, express or implied, including but not limited to the warranties of the merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.
